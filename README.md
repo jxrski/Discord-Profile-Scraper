@@ -33,9 +33,3 @@ The best profile scraper for discord, super easy to use and fast!
 
 ### 🚀 Support
 - If you have any questions feel free to join my discord: https://dsc.gg/slyte
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
-</p>
