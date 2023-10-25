@@ -1,7 +1,8 @@
+![image](https://github.com/jxrski/Discord-Profile-Scraper/assets/91528155/69b05617-e422-4ad0-98bc-7b40bfc03b58)
+
 <h2 align="center">Discord - Profile Scraper</h2>
   <p align="center">
     A simple and fast program to scrape discord profiles automatically (<b> created by me </b>)
-![image](https://github.com/jxrski/Discord-Profile-Scraper/assets/91528155/69b05617-e422-4ad0-98bc-7b40bfc03b58)
 
 ---
 
