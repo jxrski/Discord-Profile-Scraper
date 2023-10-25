@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/jxrski/Discord-Profile-Scraper/assets/91528155/69b05617-e422-4ad0-98bc-7b40bfc03b58" width="200">
-</div>
+![image](https://github.com/jxrski/Discord-Profile-Scraper/assets/91528155/69b05617-e422-4ad0-98bc-7b40bfc03b58)
 
 
 <h2 align="center">Discord - Profile Scraper</h2>
