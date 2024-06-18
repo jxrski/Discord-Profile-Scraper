@@ -8,7 +8,7 @@
 
 <h2 align="center">Discord - Profile Scraper</h2>
   <p align="center">
-    A simple and fast program to scrape discord profiles automatically (<b> created by me </b>)
+    A simple and fast program to scrape discord profiles automatically
 
 ---
 
