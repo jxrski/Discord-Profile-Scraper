@@ -28,7 +28,9 @@
    
 2. Edit the `config.json` file and put your discord account token
 
-3. Open `main.py` or `main.exe` and enjoy! :)
+3. Add a folder `scraped` and in here add another folder `images` & txt file with the name `usernames`
+
+4. Open `main.py` or `main.exe` and enjoy! :)
 
 ---
 
