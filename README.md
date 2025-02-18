@@ -41,4 +41,4 @@
 ---
 
 ### 🚀 Support
-- If you have any questions feel free to join my discord: https://dsc.gg/slyte
+- If you have any questions feel free to join my discord: https://dsc.gg/jxrski
